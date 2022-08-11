@@ -147,4 +147,5 @@ The final 2 qestions can be answered using the following dashboard:
 
 where we can see that Male riders use the bike sharing service the heaviest where all users regardless of gender seem to exhibit that on avg the highest number of trips taken happened durong the weekdyas (Mon - Fri) at the hours of 7am-9am and 4pm-8pm which id be under the assumption that users are going to and from work. 
 
-
+## Repair Program
+Finally, in order to solidify the proposal, while one of the key stakeholders would like to see a bike trip analysis, which is completely understable to breakdown and alayse in orderr to be able to make an informed decision, i belive one must also take into account a repair program service for bikes currently in servce. As ridership cintinues to increase, I belive that this is a problem that will quickly expand nad cause an impact to user experience and so for that front using the lsat 3 visualisations presented in deliverable 2, the [story created here](https://public.tableau.com/app/profile/sannan.saleem/viz/NYCCitiStory-RepairProgram/NYCCitiStory-bikeRepairprogram?publish=yes) aims to shed light onto a bike repair program that can be implemented amoghst the bikes.
