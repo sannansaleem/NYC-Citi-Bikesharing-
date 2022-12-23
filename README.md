@@ -22,7 +22,6 @@ Purpose: The purpose of the current analysis is to prepare visualizations that g
 ````py
 # CHALLENGE 14
 ### MODULE 14 - Des Moines - Bike Sharing Project
-#### By Emmanuel Martinez
 
 import pandas as pd
 
